@@ -30,3 +30,14 @@ Update progessing
 
 
 
+
+
+**2. Insert assembly**
+
+![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08-Filamnet_Cutting_mod/blob/main/Photos/SV08_M3%20insert1.png)
+![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08-Filamnet_Cutting_mod/blob/main/Photos/SV08_M3%20insert2.png)
+![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08-Filamnet_Cutting_mod/blob/main/Photos/SV08_M3%20insert3.png)
+![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08-Filamnet_Cutting_mod/blob/main/Photos/SV08_M3%20insert4.png)
+![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08-Filamnet_Cutting_mod/blob/main/Photos/SV08_M3%20insert5.png)
+
+

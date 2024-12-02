@@ -20,6 +20,7 @@ https://github.com/Sovol3d/SV08/tree/main/STEP
 
 
 
+
 **1. Prepare parts**
 
 (1) Bambu HOTEND : 1ea
@@ -48,7 +49,8 @@ https://github.com/Sovol3d/SV08/tree/main/STEP
 
 
 
-**2. Insert assembly**
+
+*2. Insert assembly*
 
 인서트를 아래 사진과 같이 삽입을 합니다.
 

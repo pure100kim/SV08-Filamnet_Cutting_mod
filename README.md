@@ -52,6 +52,12 @@ https://github.com/Sovol3d/SV08/tree/main/STEP
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08-Filamnet_Cutting_mod/blob/main/Photos/SV08_M3%20insert5.png)
 
 
+![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/hotend_screw01.png)
+![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/hotend_screw01.png)
+![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/hotend_screw03.png)
+![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/lever_screw01.png)
+
+
 
 
 

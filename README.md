@@ -1,4 +1,5 @@
-# SV08 Filament Cutting MOD
+# SV08 Filament Cutting MOD (Update progessing)
+
 Bamboo Hotend integrated filament cutting mode.
 
 I have modified the STEP CAD file available on Sovol's GitHub.
@@ -8,7 +9,9 @@ https://github.com/Sovol3d/SV08/tree/main/STEP
 
 
 
-Update progessing
+
+
+
 
 
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08-Filamnet_Cutting_mod/blob/main/Photos/SV08_cutting_mod_hotend1.png)

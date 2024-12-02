@@ -50,6 +50,8 @@ https://github.com/Sovol3d/SV08/tree/main/STEP
 
 **2. Insert assembly**
 
+인서트를 아래 사진과 같이 삽입을 합니다.
+
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08-Filamnet_Cutting_mod/blob/main/Photos/SV08_M3%20insert1.png)
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08-Filamnet_Cutting_mod/blob/main/Photos/SV08_M3%20insert2.png)
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08-Filamnet_Cutting_mod/blob/main/Photos/SV08_M3%20insert3.png)
@@ -57,9 +59,40 @@ https://github.com/Sovol3d/SV08/tree/main/STEP
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08-Filamnet_Cutting_mod/blob/main/Photos/SV08_M3%20insert5.png)
 
 
+(1) HOTEND와 마운트를 먼저 체결합니다.
+
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/hotend_screw01.png)
-![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/hotend_screw01.png)
+
+
+(2) 마운트를 헤더에 체결을 합니다.
+
+![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/hotend_screw02.png)
+
+
+(3) 레버 마운트를 헤더에 체결합니다.
+
+(4) 컷팅 가이드를 HOTEND 마운트와 체결합니다.
+
+
+(5) 칼날과 칼날 마운트를 M2 볼트로 조립합니다.
+
+(6) 칼날 조립 부품을 헤더쪽에 가이드에 맞춰 삽입합니다.
+
+(7) 칼날 가이드 레일을 레버 마운트와 M3*20mm 2개로 고정합니다.
+
+(8) 레버 하단부 M3*20mm로 레버 마운트에 체결입니다.
+    M3 SPACE(와셔)를 양쪽에 넣어주면 좋습니다.
+    (주의) 레버가 움직이도록 꽉 체결하지 말 것! 움직여야 합니다.
+
+(9) 칼날 마운트 부품과 레버를 조립합니다. M3 너트와 체결하며 록타이트로 너트가 빠지지 않도록 합니다.
+    (옵션) M3너트 안쪽에  M4 스페이스를 추가해도 됩니다.
+    (주의) 칼날 마운트와 꽉 체결하지 말 것! 움직여야 합니다.
+    
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/hotend_screw03.png)
+
+
+(10) 레버를 움직이며 칼날이 자연스레 움직이는지 확인합니다.
+
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/lever_screw01.png)
 
 

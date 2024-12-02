@@ -119,5 +119,10 @@ https://github.com/Sovol3d/SV08/tree/main/STEP
 (3) DEC 02 (MON) : screw assembly added
 
 
+감사합니다.
+Thank you!
+
+미스터 굿맨 Mr.goodman 
+
 
 

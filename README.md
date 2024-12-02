@@ -21,7 +21,7 @@ https://github.com/Sovol3d/SV08/tree/main/STEP
 
 
 
-**1. Prepare parts**
+## **1. Prepare parts**
 
 (1) Bambu HOTEND : 1ea
 
@@ -54,7 +54,7 @@ https://github.com/Sovol3d/SV08/tree/main/STEP
 <br>
 
 
-**2. Insert assembly**
+## **2. Insert assembly**
 
 인서트를 아래 사진과 같이 삽입을 합니다.
 
@@ -110,7 +110,8 @@ https://github.com/Sovol3d/SV08/tree/main/STEP
 
 
 
-**3. Change note**
+## **3. Change note**
+
 (1) Basic design NOV 20 ~ DEC.01 2024
 
 (2) DEC 02 (MON) : Modify lever M2*8mm screw interupt 

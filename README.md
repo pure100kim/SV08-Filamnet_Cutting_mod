@@ -73,7 +73,10 @@ https://github.com/Sovol3d/SV08/tree/main/STEP
 **3. Change note**
 (1) Basic design NOV 20 ~ DEC.01 2024
 
-(2) Modify lever M2*8mm screw interupt 
+(2) DEC 02 : Modify lever M2*8mm screw interupt 
 
-(3) screw assembly added
+(3) DEC 02 : screw assembly added
+
+
+
 

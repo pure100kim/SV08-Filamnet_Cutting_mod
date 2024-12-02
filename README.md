@@ -18,15 +18,17 @@ Update progessing
 (2) Blade Cutter : 1ea
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08-Filamnet_Cutting_mod/blob/main/Photos/blade.png)
 
-(3) M3 Insert
+(3) M3 Insert : 5ea
 
 (4) pen spring : 1ea
 
-(5) M2*10mm : 1ea
+(5) space : 1ea
 
-(6) M3 *
+(6) M2*8mm : 1ea
 
-(7) M3 *
+(7) M3*
+
+(8) M3*
 
 
 
@@ -40,4 +42,11 @@ Update progessing
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08-Filamnet_Cutting_mod/blob/main/Photos/SV08_M3%20insert4.png)
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08-Filamnet_Cutting_mod/blob/main/Photos/SV08_M3%20insert5.png)
 
+
+
+
+
+**3. Change note**
+(1) Basic design NOV 20 ~ DEC.01 2024
+(2) 
 

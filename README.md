@@ -25,7 +25,9 @@ https://github.com/Sovol3d/SV08/tree/main/STEP
 (1) Bambu HOTEND : 1ea
 
 (2) Blade Cutter : 1ea
+
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08-Filamnet_Cutting_mod/blob/main/Photos/blade.png)
+
 
 (3) M3 Insert : 5ea
 

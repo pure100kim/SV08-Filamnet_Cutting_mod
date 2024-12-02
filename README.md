@@ -3,7 +3,7 @@
 Bamboo Hotend integrated filament cutting mode.
 
 I have modified the STEP CAD file available on Sovol's GitHub.
-Thank you to Sovol for providing the original resource.
+Thank you to Sovol for providing the CAD STEP files.
 
 https://github.com/Sovol3d/SV08/tree/main/STEP
 

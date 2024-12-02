@@ -31,14 +31,17 @@ https://github.com/Sovol3d/SV08/tree/main/STEP
 
 (4) pen spring : 1ea
 
-(5) space : 1ea
+(5) space : 2ea
 
 (6) M2*8mm : 1ea
 
-(7) M3*
+(7) M3*16mm : 3ea
 
-(8) M3*
+(8) M3*20mm : 5ea
 
+(9) M3*8mm : 1ea
+
+(10) M3 nut : 1ea (required loctite after joint)
 
 
 
@@ -58,10 +61,15 @@ https://github.com/Sovol3d/SV08/tree/main/STEP
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/lever_screw01.png)
 
 
+![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/hotend_cutting_lever_assembly.png)
+
+
+
 
 
 
 **3. Change note**
 (1) Basic design NOV 20 ~ DEC.01 2024
-(2) 
+(2) Modify lever M2*8mm screw interupt 
+(3) screw assembly added
 

@@ -86,9 +86,7 @@ https://github.com/Sovol3d/SV08/tree/main/STEP
 
 (9) 칼날 마운트 부품과 레버를 조립합니다. <br>
     M3 너트와 체결하며 록타이트로 너트가 빠지지 않도록 합니다.<br>
-
-    (옵션) M3너트 안쪽에  M4 스페이스를 추가해도 됩니다.<br>
-    
+    (옵션) M3너트 안쪽에  M4 스페이스를 추가해도 됩니다.<br>    
     (주의) 칼날 마운트와 꽉 체결하지 말 것! 움직여야 합니다.<br>
     
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/hotend_screw03.png)

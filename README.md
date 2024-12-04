@@ -36,7 +36,7 @@ https://github.com/Sovol3d/SV08/tree/main/STEP
 
 (5) space : 2ea
 
-(6) M2*8mm : 1ea  (blade for fixing)
+(6) M2*4mm : 1ea  (blade for fixing)
 
 (7) M3*16mm : 3ea
 

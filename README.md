@@ -9,10 +9,14 @@ https://github.com/Sovol3d/SV08/tree/main/STEP
 
 
 
-
+<br>
+<br>
+<br>
 
 
 **아래 동작 유투브 영상 참조하세요~**
+
+Refer to operation youtube video as below.
 
 https://www.youtube.com/watch?v=FpVqoYQupSA
 

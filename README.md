@@ -148,6 +148,12 @@ Must chnage to all x positon X10
 
 
 
+
+
+
+<br>
+<br>
+<br>
 ## **7. Add macro G-code in Macro.cfg file ** 
 
 
@@ -155,6 +161,9 @@ Must chnage to all x positon X10
 
 
 
+<br>
+<br>
+<br>
 ## **8. Change note**
 
 (1) Basic design NOV 20 ~ DEC.01 2024

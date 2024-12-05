@@ -117,7 +117,7 @@ https://www.youtube.com/watch?v=FpVqoYQupSA
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/lever_screw01.png)
 
 
-![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/hotend_cutting_lever_assembly.png)
+![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/hotend_cutting_lever_assembly01.png)
 
 
 

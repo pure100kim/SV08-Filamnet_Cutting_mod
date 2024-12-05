@@ -175,8 +175,14 @@ M400
 
 
 
+## **6. Add Chage Filament G-code ** 
 
-## **6. Add macro G-code in Macro.cfg file ** 
+![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/ORCA_Slice_Change_Filament_G-code.png).
+
+
+
+
+## **7. Add macro G-code in Macro.cfg file ** 
 
 [gcode_macro FILAMENT_CUTTING] 
 gcode:
@@ -189,11 +195,11 @@ gcode:
     G1 X10 Y0 F5000
     G1 E-10 F3000
 
+![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/macro.png).
 
 
 
-
-## **7. Change note**
+## **8. Change note**
 
 (1) Basic design NOV 20 ~ DEC.01 2024
 
@@ -206,8 +212,6 @@ gcode:
 (5) DEC 05 (Thu) : Add Lever & Guide holder.
 
 (6) DEC 05 (Thu) : push bar modeling
-
-in progress plan
 
 (7) DEC 05 (Thu) : Final Testing and macro coding
 

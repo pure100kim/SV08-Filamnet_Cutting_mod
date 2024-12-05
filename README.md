@@ -134,15 +134,16 @@ https://www.youtube.com/watch?v=FpVqoYQupSA
 
 (4) DEC 04 (Wen) : Adjust torrence CAD, printout and assembly
 
+(5) DEC 05 (Thu) : Add Lever & Guide holder.
 
 in progress plan
 
 
-(5) DEC 05 (Thu) : push bar modeling
+(6) DEC 05 (Thu) : push bar modeling
 
-(6) DEC 05 (Thu) : Final Testing and macro coding
+(7) DEC 05 (Thu) : Final Testing and macro coding
 
-(7) DEC 05 (Thu) : Relase SV08 Filament Cutting mode
+(8) DEC 05 (Thu) : Relase SV08 Filament Cutting mode
 
 
 감사합니다.

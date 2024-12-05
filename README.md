@@ -138,40 +138,6 @@ https://www.youtube.com/watch?v=FpVqoYQupSA
 
 Must chnage to all x positon X10
 
-G28
-G90
-G1 X10 F9000
-G1 Y20
-G1 Z0.600 F600
-G1 Y0 F9000
-START_PRINT
-G90
-G1 X10 F9000
-G1 Y20
-G1 Z0.600 F600
-G1 Y0 F9000
-M400
-G91
-M83
-M140 S[bed_temperature_initial_layer_single] ;set bed temp
-M104 S[nozzle_temperature_initial_layer] ;set extruder temp
-M190 S[bed_temperature_initial_layer_single] ;wait for bed temp
-M109 S[nozzle_temperature_initial_layer];wait for extruder temp
-G1 E25 F300
-G4 P1000
-G1 E-0.200 Z5 F600
-G1 X88.000 F9000
-G1 Z-5.000 F600
-G1 X87.000 E20.88 F1800
-G1 X87.000 E13.92 F1800
-G1 Y1 E0.16 F1800
-G1 X-87.000 E13.92 F1800
-G1 X-87.000 E20.88 F1800
-G1 Y1 E0.24 F1800
-G1 X87.000 E20.88 F1800
-G1 X87.000 E13.92 F1800
-G1 E-0.200 Z1 F600
-M400
 
 
 
@@ -184,16 +150,6 @@ M400
 
 ## **7. Add macro G-code in Macro.cfg file ** 
 
-[gcode_macro FILAMENT_CUTTING] 
-gcode:
-#    {% if printer.toolhead.homed_axes != "xyz" %}
-#       G28
-#    {% endif %}
-    G92 E0 
-    G1 X10 Y0 F5000
-    G1 X0 Y0 F1000  
-    G1 X10 Y0 F5000
-    G1 E-10 F3000
 
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/macro.png).
 

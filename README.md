@@ -134,7 +134,7 @@ https://www.youtube.com/watch?v=FpVqoYQupSA
 
 
 
-## **5. ORCA Slice Machin start-G-code Chnage**
+## **5. ORCA Slice Machin start-G-code Change**
 
 Must chnage to all x positon X10
 

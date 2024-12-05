@@ -140,9 +140,12 @@ Must chnage to all x positon X10
 
 
 
+<br>
+<br>
+<br>
 
 
-## **6. Add Chage Filament G-code ** 
+## **6. Add Chage Filament G-code** 
 
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/ORCA_Slice_Change_Filament_G-code.png).
 
@@ -155,7 +158,8 @@ Must chnage to all x positon X10
 <br>
 <br>
 <br>
-## **7. Add macro G-code in Macro.cfg file ** 
+
+## **7. Add macro G-code in Macro.cfg file** 
 
 
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/macro.png).
@@ -165,6 +169,7 @@ Must chnage to all x positon X10
 <br>
 <br>
 <br>
+
 ## **8. Change note**
 
 (1) Basic design NOV 20 ~ DEC.01 2024

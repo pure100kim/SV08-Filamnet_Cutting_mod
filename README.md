@@ -1,4 +1,4 @@
-# SV08 Filament Cutting MOD (Update progessing)
+# SV08 Filament Cutting MOD
 
 Bamboo Hotend integrated filament cutting mode.
 

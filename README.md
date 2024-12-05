@@ -60,7 +60,7 @@ https://www.youtube.com/watch?v=FpVqoYQupSA
 
 (10) M3 nut : 1ea (required loctite after joint)
 
-
+(11) M4*16~20 : 1ea
 
 
 
@@ -136,10 +136,9 @@ https://www.youtube.com/watch?v=FpVqoYQupSA
 
 (5) DEC 05 (Thu) : Add Lever & Guide holder.
 
-in progress plan
-
-
 (6) DEC 05 (Thu) : push bar modeling
+
+in progress plan
 
 (7) DEC 05 (Thu) : Final Testing and macro coding
 

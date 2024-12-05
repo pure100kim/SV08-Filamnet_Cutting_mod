@@ -124,6 +124,15 @@ https://www.youtube.com/watch?v=FpVqoYQupSA
 
 
 
+
+<br>
+<br>
+<br>
+
+![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/SV08_Lever_Fixed_bar.png).
+
+
+
 ## **3. Change note**
 
 (1) Basic design NOV 20 ~ DEC.01 2024

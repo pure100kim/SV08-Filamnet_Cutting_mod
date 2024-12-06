@@ -132,6 +132,7 @@ https://www.youtube.com/watch?v=FpVqoYQupSA
 <br>
 <br>
 <br>
+(11) 레버 동작 고정 바를 설치합니다.
 
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/SV08_Lever_Fixed_bar.png).
 

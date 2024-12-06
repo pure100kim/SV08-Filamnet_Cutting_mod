@@ -54,13 +54,15 @@ https://www.youtube.com/watch?v=FpVqoYQupSA
 
 (7) M3*16mm : 3ea
 
-(8) M3*20mm : 5ea
+(8) M3*20mm (SHCS) : 3ea
 
-(9) M3*8mm : 1ea
+(9) M3*20mm (BHCS) : 2ea
 
-(10) M3 nut : 1ea (required loctite after joint)
+(10) M3*8mm : 1ea
 
-(11) M4*16~20 : 1ea
+(11) M3 nut : 1ea (required loctite after joint)
+
+(12) M4*20 : 1ea
 
 
 

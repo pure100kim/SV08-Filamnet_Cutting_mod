@@ -115,6 +115,8 @@ https://www.youtube.com/watch?v=FpVqoYQupSA
 
 
 (10) 레버를 움직이며 칼날이 자연스레 움직이는지 확인합니다.
+     (주의) 둥근머리 볼트(BHCS)를 사용해야 팬의 무두 볼트와 간섭이 생기질 않습니다.
+     팬 고정 볼트를 둥근머리 볼트로 변경하여도 됩니다.
 
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/lever_screw01.png)
 

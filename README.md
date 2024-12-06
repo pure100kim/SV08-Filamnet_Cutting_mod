@@ -137,6 +137,19 @@ https://www.youtube.com/watch?v=FpVqoYQupSA
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/SV08_Lever_Fixed_bar.png).
 
 
+<br>
+<br>
+<br>
+
+(12) 커버 레버 부분 절단
+
+블로워팬 경계 부분까지만 잘라냅니다.
+
+
+
+<br>
+<br>
+<br>
 
 
 ## **5. ORCA Slice Machin start-G-code Change**

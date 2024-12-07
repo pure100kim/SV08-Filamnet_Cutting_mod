@@ -171,8 +171,8 @@ Secure them with an M3 nut, and apply Loctite to prevent the nut from loosening.
 <br>
 <br>
 <br>
-(11) 레버 동작 고정 바를 설치합니다.<br>
-Install the lever operation fixing bar onto the X-axis belt mounting bracket.<br>
+(11) 레버 동작 고정 Push Bar를 설치합니다.<br>
+Install the lever operation fixing push bar onto the X-axis belt mounting bracket.<br>
 
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/SV08_Lever_Fixed_bar.png).
 
@@ -245,11 +245,11 @@ Cut only up to the boundary of the blower fan.<br>
 
 (5) DEC 05 (Thu) : Add Lever & Guide holder.
 
-(6) DEC 05 (Thu) : push bar modeling
+(6) DEC 05 (Thu) : Push bar modeling
 
 (7) DEC 05 (Thu) : Final Testing and macro coding
 
-(8) DEC 05 (Thu) : Relase SV08 Filament Cutting mode
+(8) DEC 06 (Fri) : Relased SV08 Filament Cutting mode
 
 
 감사합니다.

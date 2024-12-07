@@ -246,6 +246,8 @@ Toolhaed Hall Sensor version <bar>
 
 (3) M3*20mm : 2ea <br>
 
+(4) M2*10mm : 2ea <br>
+
 
 
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/SV08_Hotend_sensor05.png).

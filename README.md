@@ -233,6 +233,22 @@ Cut only up to the boundary of the blower fan.<br>
 <br>
 <br>
 
+
+
+# SV08 Filament Cutting MOD Hall Sensor Version
+
+
+![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/SV08_Hotend_sensor05).
+
+
+![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/SV08_Hotend_sensor02).
+
+
+
+
+
+
+
 ## **8. Change note**
 
 (1) Basic design NOV 20 ~ DEC.01 2024

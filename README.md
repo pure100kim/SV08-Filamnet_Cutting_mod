@@ -235,13 +235,23 @@ Cut only up to the boundary of the blower fan.<br>
 
 
 
-# SV08 Filament Cutting MOD Hall Sensor Version
+# SV08 Filament Cutting MOD Toolhead Hall Sensor Version (07.DEC 2024)
 
 
-![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/SV08_Hotend_sensor05).
+Toolhaed Hall Sensor version <bar>
+
+(1) Micro swtich (D2F) : 1ea <br>
+
+(2) 4mm Ball : 1ea <br>
+
+(3) M3*20mm : 2ea <br>
 
 
-![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/SV08_Hotend_sensor02).
+
+![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/SV08_Hotend_sensor05.png).
+
+
+![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/SV08_Hotend_sensor02.png).
 
 
 
@@ -266,6 +276,9 @@ Cut only up to the boundary of the blower fan.<br>
 (7) DEC 05 (Thu) : Final Testing and macro coding
 
 (8) DEC 06 (Fri) : Relased SV08 Filament Cutting mode
+
+(9) DEC 07 (Sat) : Add Toolhead Hall sensor type HOTEND Mount
+
 
 
 감사합니다.

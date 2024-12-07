@@ -89,25 +89,34 @@ First, attach the HOTEND and the mount. <br>
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/hotend_screw01.png)
 
 <br>
+<br>
 (2) 마운트를 헤더에 체결을 합니다.<br>
+Attach the mount to the header. <br>
+
 
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/hotend_screw02.png)
 
 <br>
+<br>
 (3) 레버 마운트를 헤더에 체결합니다.<br>
 Attach the lever mount to the header. <br>
 
+<br>
+<br>
 (4) 컷팅 가이드를 HOTEND 마운트와 체결합니다.<br>
 Attach the cutting guide to the HOTEND mount. <br>
 
 
-
+<br>
+<br>
 (5) 칼날과 칼날 마운트를 M2 볼트로 조립합니다.<br>
 Assemble the blade and blade mount using M2 bolts. <br>
 
+<br>
 (6) 칼날 조립 부품을 헤더쪽에 가이드에 맞춰 삽입합니다.<br>
 Insert the blade assembly component into the header, aligning it with the guide. <br>
 
+<br>
 
 (7) 칼날 가이드 레일을 레버 마운트와 M3*20mm 2개로 고정합니다.<br>
 Secure the blade guide rail to the lever mount using two M3*20mm screws. <br>

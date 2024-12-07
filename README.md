@@ -115,14 +115,19 @@ https://www.youtube.com/watch?v=FpVqoYQupSA
 
 
 (10) 레버를 움직이며 칼날이 자연스레 움직이는지 확인합니다.
-     (주의) 둥근머리 볼트(BHCS)를 사용해야 팬의 무두 볼트와 간섭이 생기질 않습니다.
-     팬 고정 볼트를 둥근머리 볼트로 변경하여도 됩니다.
+     (필수) 둥근머리 볼트(BHCS)를 사용해야 팬의 무두 볼트와 간섭이 생기질 않습니다.
+     (선택) 팬 고정 볼트를 둥근머리 볼트로 변경하여도 됩니다.
 
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/lever_screw01.png)
 
 
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/hotend_cutting_lever_assembly01.png)
 
+
+![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/SV08_Cover_screw01.png)
+
+
+![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/SV08_Cover_screw02.png)
 
 
 
@@ -137,6 +142,7 @@ https://www.youtube.com/watch?v=FpVqoYQupSA
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/SV08_Lever_Fixed_bar.png).
 
 
+
 <br>
 <br>
 <br>
@@ -144,6 +150,9 @@ https://www.youtube.com/watch?v=FpVqoYQupSA
 (12) 커버 레버 부분 절단
 
 블로워팬 경계 부분까지만 잘라냅니다.
+
+![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/SV08_Cover_open.png).
+
 
 
 

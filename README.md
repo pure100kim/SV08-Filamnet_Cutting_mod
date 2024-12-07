@@ -176,7 +176,7 @@ Install the lever operation fixing bar onto the X-axis belt mounting bracket.<br
 
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/SV08_Lever_Fixed_bar.png).
 
-
+![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/SV08_Lever_Fixed_bar.jpg).
 
 <br>
 <br>

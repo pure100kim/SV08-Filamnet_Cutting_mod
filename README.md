@@ -163,7 +163,7 @@ Secure them with an M3 nut, and apply Loctite to prevent the nut from loosening.
 
 ![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/SV08_Cover_screw02.png)
 
-
+![Image of ERCF Toolheadsensor](https://github.com/pure100kim/SV08_Filament_Cutting_mod/blob/main/Photos/SV08_Cover_screw03.png)
 
 
 

@@ -199,7 +199,7 @@ Cut only up to the boundary of the blower fan.<br>
 
 ## **5. ORCA Slice Machin start-G-code Change**
 
-Must chnage to all x positon X10
+(Mandatory) !!!!! Must chnage to all x positon over X10
 
 
 

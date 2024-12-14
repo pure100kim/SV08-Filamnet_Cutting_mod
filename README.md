@@ -197,11 +197,14 @@ Cut only up to the boundary of the blower fan.<br>
 <br>
 
 
-## **5. ORCA Slice Machin start-G-code Change**
+## **5. ORCA Slice Machin start-G-code & macro.cfg Change **
 
 (Mandatory) !!!!! Must chnage to all x positon over X10
 
 
+[gcode_macro _global_var]
+variable_pause_park:{'x': 10, 'y': 0, 'z': 10, 'e': 1}
+variable_cancel_park:{'x': 10, 'y': 350, 'z': 10, 'e': 1}
 
 <br>
 <br>

@@ -201,10 +201,11 @@ Cut only up to the boundary of the blower fan.<br>
 
 (Mandatory) !!!!! Must chnage to all x positon over X10
 
+필수로 꼭 수정하셔야 합니다.
 
-[gcode_macro _global_var]
-variable_pause_park:{'x': 10, 'y': 0, 'z': 10, 'e': 1}
-variable_cancel_park:{'x': 10, 'y': 350, 'z': 10, 'e': 1}
+[gcode_macro _global_var] <br>
+variable_pause_park:{'x': 10, 'y': 0, 'z': 10, 'e': 1} <br>
+variable_cancel_park:{'x': 10, 'y': 350, 'z': 10, 'e': 1} <br>
 
 <br>
 <br>
